@@ -2,10 +2,12 @@ main:
   - title: "Home"
     url: /
   - title: "About Me"
-    url: /aboutme/
+    url: /about.html
   - title: "Projects"
-    url: /projects/
+    url: /projects.html
   - title: "Resume"
-    url: /resume/
+    url: /resume.html
+  - title: "Contact"
+    url: /contact.html
 
 breadcrumbs: true  # disabled by default
