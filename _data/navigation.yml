@@ -1,0 +1,11 @@
+main:
+  - title: "Home"
+    url: /
+  - title: "About Me"
+    url: /aboutme/
+  - title: "Projects"
+    url: /projects/
+  - title: "Resume"
+    url: /resume/
+
+breadcrumbs: true  # disabled by default
