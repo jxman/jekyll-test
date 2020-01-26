@@ -6,8 +6,7 @@ permalink: /projects.html
 author_profile: false
 ---
 
-My work history and stuff.
+[Host hosting project](/projects/mysite.html)
+Hosting of this site using Jekyll to generate the content that I host on AWS and designed for 99.99 of availabelbity.  All the AWS Cloud configuration is written in Terraform to automate the deployment.
 
-    *  Project1
-    *  Project2
-    *  Project3
+[Tesla Brower Weather App](/projects/teslaweather.html)
